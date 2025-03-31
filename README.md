@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightfrost" alt="nightfrost" /></a> </p>
 
-- 🌱 I’m currently learning **Serverless Next.Js**
+- 🌱 I’m currently building an ERP solution for weapon shops.
 
 - 👨‍💻 All of my projects are available at [https://github.com/nightfrost](https://github.com/nightfrost)
 
