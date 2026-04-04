@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate backend-developer</h3>
-https://github-profile-trophy-liard-delta.vercel.app
-<p align="left"> [![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=nightfrost&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=nightfrost)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently building a trailer portal and recycling app.
 
