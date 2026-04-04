@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate backend-developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightfrost" alt="nightfrost" /></a> </p>
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=nightfrost&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
-- 🌱 I’m currently building a job portal and recycling app.
+- 🌱 I’m currently building a trailer portal and recycling app.
 
 - 👨‍💻 Most of my projects are available at [https://github.com/nightfrost](https://github.com/nightfrost)
 
